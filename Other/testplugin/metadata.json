@@ -1,0 +1,14 @@
+{
+  "Id": "test-extension",
+  "Name": "Test Extension",
+  "Description": "This is a test extension that can be uploaded to the GitHub repository",
+  "Author": "Save Vault User",
+  "Version": "1.0.0",
+  "DownloadUrl": "",
+  "IsInstalled": false,
+  "PublishedDate": "2025-05-23T21:37:57.2237734+03:00",
+  "IconUrl": "",
+  "Rating": 5,
+  "DownloadCount": 1,
+  "Category": "Other"
+}
