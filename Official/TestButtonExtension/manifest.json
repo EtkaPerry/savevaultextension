@@ -1,0 +1,12 @@
+{
+  "id": "test-button-extension",
+  "name": "Test Button Extension",
+  "description": "Adds a test button next to the Tools menu item",
+  "author": "SaveVault User",
+  "version": "1.0.0",
+  "category": "Improvement",
+  "icon": "icon.png",
+  "main": "TestButtonExtension.dll",
+  "entryPoint": "SaveVaultApp.Extensions.TestButtonExtension.TestButtonExtensionMain",
+  "requiredVersion": "1.0.0"
+}
